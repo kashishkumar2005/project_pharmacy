@@ -1,0 +1,5 @@
+com\pharmacy\model\Medicine.class
+com\pharmacy\PharmacyApplication.class
+com\pharmacy\config\DatabaseConnection.class
+com\pharmacy\dao\MedicineDAO.class
+com\pharmacy\service\MedicineService.class
