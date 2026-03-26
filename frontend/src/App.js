@@ -3,7 +3,7 @@ import {
   AlertCircle, Package, ShoppingCart, TrendingUp, 
   Plus, Edit2, Trash2, Search, LogOut, User,
   Calendar, DollarSign, TrendingDown, Activity,
-  X, Check, FileText, Filter
+  X, Check
 } from 'lucide-react';
 
 // ==================== STYLES ====================
